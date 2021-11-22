@@ -1,0 +1,22 @@
+.nav {
+  background-color: pink;
+  padding-left: 2vh;
+  padding-right: 5vh;
+  box-sizing: border-box;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.nav_list {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: inherit;
+}

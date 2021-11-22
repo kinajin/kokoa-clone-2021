@@ -1,0 +1,10 @@
+.screen_header {
+  display: flex;
+  justify-content: space-between;
+  padding: 2vh;
+  align-items: center;
+}
+
+.screen_header_icons span {
+  margin-left: 2vh;
+}
